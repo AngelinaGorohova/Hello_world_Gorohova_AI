@@ -6,7 +6,6 @@ awk '
    NR > 0
     { 
         sum += $2           
-        if ($2 > max) max=$2 
     } 
     END { 
         print "Сумма всех оценок: " sum
