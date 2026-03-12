@@ -1,0 +1,31 @@
+ls -lah
+
+total 120
+drwxr-x---+  28 macbook  staff   896B 11 мар 18:36 .
+drwxr-xr-x    5 root     admin   160B  1 янв  1970 ..
+-r--------    1 macbook  staff     8B  1 янв  1970 .CFUserTextEncoding
+-rw-r--r--@   1 macbook  staff    10K  4 мар 09:50 .DS_Store
+drwx------+ 272 macbook  staff   8,5K  9 мар 19:17 .Trash
+drwxr-xr-x    3 macbook  staff    96B 21 фев 10:15 .anaconda
+-rw-r--r--    1 macbook  staff   447B 21 фев 10:15 .bash_profile
+drwxr-xr-x    5 macbook  staff   160B 21 фев 10:15 .conda
+drwxr-xr-x    3 macbook  staff    96B 21 фев 10:15 .config
+drwxr-xr-x    3 macbook  staff    96B 21 фев 10:19 .ipython
+drwxr-xr-x    3 macbook  staff    96B  6 мар 20:04 .jupyter
+-rw-r--r--    1 macbook  staff   281B 21 фев 10:15 .tcshrc
+drwxr-xr-x@   5 macbook  staff   160B  5 фев 15:30 .vscode
+-rw-r--r--    1 macbook  staff   635B 21 фев 10:15 .xonshrc
+-rw-r--r--    1 macbook  staff    94B  5 фев 15:58 .zprofile
+-rw-------@   1 macbook  staff    12K  7 мар 13:06 .zsh_history
+drwx------   18 macbook  staff   576B 11 мар 18:35 .zsh_sessions
+-rw-r--r--    1 macbook  staff   446B 21 фев 10:15 .zshrc
+-rw-r--r--@   1 macbook  staff   4,3K  7 мар 11:35 4.py
+drwx------@   5 macbook  staff   160B 13 окт 17:04 Applications
+drwx------+  17 macbook  staff   544B  9 мар 19:17 Desktop
+drwx------+   8 macbook  staff   256B  9 окт 16:57 Documents
+drwx------+ 100 macbook  staff   3,1K 11 мар 01:16 Downloads
+drwx------@  92 macbook  staff   2,9K 21 фев 10:18 Library
+drwx------    5 macbook  staff   160B 30 янв 04:22 Movies
+drwx------+   6 macbook  staff   192B 17 авг  2025 Music
+drwx------+   5 macbook  staff   160B 30 янв 04:23 Pictures
+drwxr-xr-x+   4 macbook  staff   128B  1 янв  1970 Public
